@@ -18,7 +18,6 @@
 - 🏛️ **[Vice Head of Informatics Student Association (Wakahim)](https://instagram.com/himaif_ums) '26/27** — running ops, building community, getting things done
 - 🌐 **[Google Student Ambassador '26](https://googlestudentambassador.id/listgsa#:~:text=Andy%20Bagus%20Oesmadi)** — connecting campus developers with Google's ecosystem
 - 🔧 **Hardware × Software** — combining microcontroller sensor logic with server-side AI inference; think Arduino talking to a FastAPI endpoint backed by a TensorFlow model
-- 📹 **[Educational AI content creator](https://instagram.com/andybagus26)** — publishing regular carousel breakdowns that make AI concepts digestible for fellow students
 
 ---
 
