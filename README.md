@@ -2,9 +2,11 @@
 
 # Hey, I'm Andy Bagus 👋
 
-**Building systems that think — and teaching others how they work.**
+*Building systems that think — and teaching others how they work.*
 
-*Informatics student · AI Engineer · Content Creator*
+<br>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=andybagus26&style=flat-square&color=6366f1&label=visitors)
 
 </div>
 
@@ -12,11 +14,11 @@
 
 ## About Me
 
-- 🎓 **Informatics @ UM Surabaya** — specializing in Intelligent Systems (Sistem Cerdas), class of '26
-- 🏛️ **Vice Head of Informatics Student Association (Wakahim) '26/27** — helping shape the org from within
-- 🌐 **Google Student Ambassador '26** — bridging Google's ecosystem with the campus community
-- 🔧 **Building at the edge of software and hardware** — from training models to wiring them into physical devices via Arduino
-- 📹 **Educational AI content creator** — breaking down complex concepts into things that actually make sense
+- 🎓 **Informatics student @ [UM Surabaya](https://www.um-surabaya.ac.id/)** — majoring in Intelligent Systems (Sistem Cerdas), diving deep into how machines actually learn
+- 🏛️ **[Vice Head of Informatics Student Association (Wakahim)](https://instagram.com/himaif_ums) '26/27** — running ops, building community, getting things done
+- 🌐 **[Google Student Ambassador '26](https://developers.google.com/community/gdsc)** — connecting campus developers with Google's ecosystem
+- 🔧 **Hardware × Software** — combining microcontroller sensor logic with server-side AI inference; think Arduino talking to a FastAPI endpoint backed by a TensorFlow model
+- 📹 **[Educational AI content creator](https://instagram.com/andybagus26)** — publishing regular carousel breakdowns that make AI concepts digestible for fellow students
 
 ---
 
@@ -42,7 +44,7 @@
 ### Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-### Tools & Environments
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![MAMP](https://img.shields.io/badge/MAMP-0070C0?style=flat-square&logo=apache&logoColor=white)
@@ -62,7 +64,16 @@
 
 ---
 
-## Connect with Me
+## 📚 AI Education — Carousel Series
+
+> Setiap minggu aku publish breakdown visual tentang konsep AI/ML — dari cara kerja neural network sampai deployment model ke edge device.
+> Cocok banget buat mahasiswa yang mau belajar AI dari sudut pandang praktis.
+
+**👉 [Lihat semua carousel edukasi di Instagram →](https://instagram.com/andybagus26)**
+
+---
+
+## Connect
 
 <div align="center">
 
