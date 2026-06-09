@@ -16,7 +16,7 @@
 
 - 🎓 **Informatics student @ [UM Surabaya](https://www.um-surabaya.ac.id/)** — majoring in Intelligent Systems (Sistem Cerdas), diving deep into how machines actually learn
 - 🏛️ **[Vice Head of Informatics Student Association (Wakahim)](https://instagram.com/himaif_ums) '26/27** — running ops, building community, getting things done
-- 🌐 **[Google Student Ambassador '26](https://developers.google.com/community/gdsc)** — connecting campus developers with Google's ecosystem
+- 🌐 **[Google Student Ambassador '26](https://googlestudentambassador.id/listgsa#:~:text=Andy%20Bagus%20Oesmadi)** — connecting campus developers with Google's ecosystem
 - 🔧 **Hardware × Software** — combining microcontroller sensor logic with server-side AI inference; think Arduino talking to a FastAPI endpoint backed by a TensorFlow model
 - 📹 **[Educational AI content creator](https://instagram.com/andybagus26)** — publishing regular carousel breakdowns that make AI concepts digestible for fellow students
 
@@ -62,23 +62,12 @@
 
 </div>
 
----
-
-## 📚 AI Education — Carousel Series
-
-> Setiap minggu aku publish breakdown visual tentang konsep AI/ML — dari cara kerja neural network sampai deployment model ke edge device.
-> Cocok banget buat mahasiswa yang mau belajar AI dari sudut pandang praktis.
-
-**👉 [Lihat semua carousel edukasi di Instagram →](https://instagram.com/andybagus26)**
-
----
-
 ## Connect
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/@andybagus26-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andybagus26)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andybagus26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andy-bagus-336318294)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andybagus510@gmail.com)
 
 </div>
