@@ -15,7 +15,7 @@
 ## About Me
 
 - 🎓 **Informatics student @ [UM Surabaya](https://www.um-surabaya.ac.id/)** — majoring in Intelligent Systems (Sistem Cerdas), diving deep into how machines actually learn
-- 🏛️ **[Vice Head of Informatics Student Association (Wakahim)](https://instagram.com/himaif_ums) '26/27** — running ops, building community, getting things done
+- 🏛️ **[Vice Head of Informatics Student Association (Wakahim) '26/27** — running ops, building community, getting things done
 - 🌐 **[Google Student Ambassador '26](https://googlestudentambassador.id/listgsa#:~:text=Andy%20Bagus%20Oesmadi)** — connecting campus developers with Google's ecosystem
 - 🔧 **Hardware × Software** — combining microcontroller sensor logic with server-side AI inference; think Arduino talking to a FastAPI endpoint backed by a TensorFlow model
 
