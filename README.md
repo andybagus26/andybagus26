@@ -15,8 +15,9 @@
 ## About Me
 
 - 🎓 **Informatics student @ [UM Surabaya](https://www.um-surabaya.ac.id/)** — majoring in Intelligent Systems (Sistem Cerdas), diving deep into how machines actually learn
-- 🏛️ **[Vice Head of Informatics Student Association (Wakahim) '26/27** — running ops, building community, getting things done
+- 🏛️ **Vice Head of Informatics Student Association (Wakahim) '26/27** — running ops, building community, getting things done
 - 🌐 **[Google Student Ambassador '26](https://googlestudentambassador.id/listgsa#:~:text=Andy%20Bagus%20Oesmadi)** — connecting campus developers with Google's ecosystem
+- 🤖 **[Coding Camp 2026 — Dicoding × DBS Foundation](https://www.dicoding.com/) — Learning Path: AI Engineer** — deepening expertise in building and deploying production-ready AI systems
 - 🔧 **Hardware × Software** — combining microcontroller sensor logic with server-side AI inference; think Arduino talking to a FastAPI endpoint backed by a TensorFlow model
 
 ---
@@ -55,18 +56,18 @@
 
 <div align="center">
 
-![Andy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andybagus26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybagus26&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
 
 ## Connect
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/@andybagus26-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andybagus26)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andy-bagus-336318294)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-bagus-336318294)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andybagus510@gmail.com)
 
 </div>
